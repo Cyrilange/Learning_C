@@ -15,7 +15,7 @@ void ft_small_to_big(int *tab, int size)
             tab[i + 1] = swap;
             i = 0;
         }
-        else{
+        else {
             i++;
         }
     }
